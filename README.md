@@ -1,3 +1,26 @@
+npm install apollo-boost react-apollo graphql --save
+
+in this project the components
+ * apollo
+ * graphql
+ * react-dom
+ * react 
+were used
+was installed with
+```
+ npm install apollo-boost react-apollo graphql --save
+```
+https://graphql-pokemon.now.sh/ was also used for the information obtained for the front-end
+
+# Run
+```
+git clone https://github.com/gr0v3r-cq/App_React_GraphQL.git
+npm install
+npm start
+```
+
+====================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
